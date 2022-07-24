@@ -30,5 +30,5 @@ Cine4Life has a catalog of all movies, TV series neatly sorted into categories b
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_ 
 

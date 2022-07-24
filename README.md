@@ -1,9 +1,9 @@
 # Cine4Life-A-Movie-App
 
-This project was built using react native on top of the expo. As my app was not available on app stores or play store you can use only the expo Go app to View my project.
+## This project was built using react native on top of the expo. As my app was not available on app stores or play store you can use only the expo Go app to View my project.
 
 To see my project in action, click the link below.
-[View Live](https://expo.dev/@logeshsiva/cine4life)
+### [View Live](https://expo.dev/@logeshsiva/cine4life)
 
 DESCRIPTION : 
 

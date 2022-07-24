@@ -1,0 +1,12 @@
+# Cine4Life-A-Movie-App
+
+This project was built using react native on top of the expo. As my app was not available on app stores or play store you can use only the expo Go app to View my project.
+
+To see my project in action, click the link below.
+[View Live] (https://expo.dev/@logeshsiva/cine4life)
+
+DESCRIPTION : 
+
+Credits : The Movie Database (TMDB) (API) 
+
+Cine4Life has a catalog of all movies, TV series neatly sorted into categories by genre, like horror, thriller, comedy, etc. Users can also search movies with keywords and find them by year of release. Celebrities and their details are also available in the app. Users can log in with google or email and can customize their profile, add movies or series to their watchlist, favorites, and watched list. Many details are added! so that you cannot miss any details of any movie or series or Celebrities!

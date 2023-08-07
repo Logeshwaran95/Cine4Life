@@ -7,7 +7,7 @@
 > 
 ## This project was built using react native on top of the expo. As my app was not available on app stores or play store you can use below link to download and use my app.
 
-### [Download Now](https://github.com/Logeshwaran95/Cine4Life.git)
+### [Download Now](https://drive.google.com/file/d/1JD-fROFd6xoVj82i6mSyHmeJ0tb7FfeC/view?usp=sharing)
 
 DESCRIPTION : 
 

@@ -13,9 +13,7 @@ DESCRIPTION :
 
 Credits : The Movie Database (TMDB) (API) 
 
-Cine4Life boasts an extensive catalog featuring a wide array of movies and TV series, thoughtfully organized into categories based on genres such as horror, thriller, comedy, and more. The app enables users to effortlessly search for movies using keywords and discover them based on their release year. Moreover, users can access comprehensive information about their favorite celebrities.
-
-By providing convenient login options via Google or email, users can personalize their profiles to suit their preferences. Additionally, they can curate their watchlist, bookmark favorites, and keep track of their watched list for a seamless viewing experience. The app is designed with meticulous attention to detail, ensuring that you never miss any crucial information about the movies, TV series, or celebrities you love.
+Cine4Life offers a sophisticated catalog of movies and TV series meticulously sorted by genre, including horror, thriller, comedy, and more. Users can easily search using keywords and filter by release year. The app also features comprehensive celebrity details. Sign in options include Google or email, allowing personalized profiles and curated watchlists. Never miss any movie, series, or celebrity detail, ensuring an immersive and enriching entertainment experience.
 
 
 ## Author

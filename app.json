@@ -29,7 +29,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "An app to know all details about movies series and celebrities",
+    "description": "Cine4Life offers a sophisticated catalog of movies and TV series meticulously sorted by genre, including horror, thriller, comedy, and more. Users can easily search using keywords and filter by release year. The app also features comprehensive celebrity details. Sign in options include Google or email, allowing personalized profiles and curated watchlists. Never miss any movie, series, or celebrity detail, ensuring an immersive and enriching entertainment experience.",
     "extra": {
       "eas": {
         "projectId": "fe741c8f-b59f-4c49-9617-98c21d32b3a7"

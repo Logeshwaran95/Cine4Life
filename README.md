@@ -5,10 +5,10 @@
 </p>
 
 > 
-## This project was built using react native on top of the expo. As my app was not available on app stores or play store you can use only the expo Go app to View my project.
+## This project was built using react native on top of the expo. As my app was not available on app stores or play store you can use below link to download and use my app.
 
 To see my project in action, click the link below.
-### [View Live](https://expo.dev/@logeshsiva/cine4life)
+### [Download](https://github.com/Logeshwaran95/Cine4Life.git)
 
 DESCRIPTION : 
 
@@ -21,7 +21,7 @@ Cine4Life has a catalog of all movies, TV series neatly sorted into categories b
 
 👤 **Logeshwaran S**
 
-* Website: https://logeshwaran-portfolio-logeshwaran95.vercel.app/
+* Website: https://logeshwaran.vercel.app/
 * Github: [@Logeshwaran95](https://github.com/Logeshwaran95)
 * LinkedIn: [@logeshwaran](https://linkedin.com/in/logeshwaran-\/)
 

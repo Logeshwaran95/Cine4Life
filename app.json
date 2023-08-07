@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Cine4Life",
+    "slug": "cine4life",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/white-logo.png",
+    "splash": {
+      "image": "./assets/logowhite.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/white-logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.logeshsiva.cine4life"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "An app to know all details about movies series and celebrities",
+    "extra": {
+      "eas": {
+        "projectId": "fe741c8f-b59f-4c49-9617-98c21d32b3a7"
+      }
+    }
+  }
+}

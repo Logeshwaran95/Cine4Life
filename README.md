@@ -5,7 +5,7 @@
 </p>
 
 > 
-## This project was developed using React Native, built upon the Expo framework. While my app is not currently available on official app stores, you can easily download and use it by accessing the following link.
+### This project was developed using React Native, built upon the Expo framework. While my app is not currently available on official app stores, you can easily download and use it by accessing the following link.
 
 ### [Download Now](https://drive.google.com/file/d/1JD-fROFd6xoVj82i6mSyHmeJ0tb7FfeC/view?usp=sharing)
 
